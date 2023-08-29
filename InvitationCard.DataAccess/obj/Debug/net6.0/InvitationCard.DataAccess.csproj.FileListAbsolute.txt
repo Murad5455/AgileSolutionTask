@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.DataAccess.deps.json
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.DataAccess.runtimeconfig.json
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.DataAccess.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.DataAccess.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.Entities.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\bin\Debug\net6.0\InvitationCard.Entities.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\refint\InvitationCard.DataAccess.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\InvitationCard.DataAccess.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.DataAccess\obj\Debug\net6.0\ref\InvitationCard.DataAccess.dll

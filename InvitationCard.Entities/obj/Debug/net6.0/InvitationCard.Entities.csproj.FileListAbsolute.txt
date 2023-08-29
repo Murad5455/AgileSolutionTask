@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\bin\Debug\net6.0\InvitationCard.Entities.deps.json
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\bin\Debug\net6.0\InvitationCard.Entities.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\bin\Debug\net6.0\InvitationCard.Entities.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\refint\InvitationCard.Entities.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\InvitationCard.Entities.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Entities\obj\Debug\net6.0\ref\InvitationCard.Entities.dll
