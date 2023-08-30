@@ -125,7 +125,7 @@ namespace InvitationCard.Business.Concrete
                 ExpireDate = token.ValidTo
             };
         }
-    
-      
+
+
     }
 }

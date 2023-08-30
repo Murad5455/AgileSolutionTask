@@ -279,7 +279,9 @@ C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\InvitationCard.Business.dll
-C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\InvitationCard.Business.pdb
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\InvitationCard.Shared.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\InvitationCard.Business.pdb
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.API\bin\Debug\net6.0\InvitationCard.Shared.pdb

@@ -11,22 +11,38 @@ using InvitationCard.Business.Abstract;
 using InvitationCard.Business.Concrete;
 using FluentValidation.AspNetCore;
 using System.Reflection;
-
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.AddDbContext<CardDbContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+
+
+
+
+//builder.Services.AddDbContext<CardDbContext>(options =>
+//{
+
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+//});
 builder.Services.AddScoped<ICardRepository, CardRepository>();
+
+
+builder.Services.AddEntityFrameworkNpgsql().AddDbContext<CardDbContext>(opt =>
+
+    opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+
+
+
+
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 {
     options.Password.RequireDigit = true;
-       options.Password.RequireLowercase = true;
-        options.Password.RequiredLength = 5;
+    options.Password.RequireLowercase = true;
+    options.Password.RequiredLength = 5;
 
 }).AddEntityFrameworkStores<CardDbContext>()
   .AddDefaultTokenProviders();
@@ -47,7 +63,7 @@ builder.Services.AddAuthentication(auth =>
         RequireExpirationTime = true,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["AuthSettings:Key"])),
         ValidateIssuerSigningKey = true
-           
+
     };
 });
 

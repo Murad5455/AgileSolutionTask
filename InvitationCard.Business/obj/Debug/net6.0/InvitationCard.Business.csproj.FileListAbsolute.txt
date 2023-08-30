@@ -12,8 +12,8 @@ C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\obj\Debug\ne
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\obj\Debug\net6.0\ref\InvitationCard.Business.dll
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.DataAccess.dll
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Entities.dll
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Shared.dll
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.DataAccess.pdb
+C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Shared.pdb
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Entities.pdb
 C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\obj\Debug\net6.0\InvitationCard.Business.csproj.CopyComplete
-C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Shared.dll
-C:\Users\LENOVO\source\repos\InvitationCard\InvitationCard.Business\bin\Debug\net6.0\InvitationCard.Shared.pdb

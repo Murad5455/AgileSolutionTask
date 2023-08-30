@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace InvitationCard.Business.Abstract
 {
-    public  interface IUserService
+    public interface IUserService
     {
 
         Task<UserManagerResponse> RegisterUserAsync(RegisterViewModel model);

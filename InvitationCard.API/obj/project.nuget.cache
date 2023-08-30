@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1BTnN0wfS6eCftN5F+B5IwiixBchA0Y3+07NJVF+VwCEYG21zPIBbmkE2xZH64PMR2g7mhgcvZqpvKsCBDqyAw==",
+  "dgSpecHash": "s8IOT/Yt5NXZ4r2PaVSI5gfGDuqBMDPhC+Qd7/5a7uzC1Iug12DF/xp3AvX4uXodb7Ji6DZJsVEzdFX9nMdFoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\InvitationCard\\InvitationCard.API\\InvitationCard.API.csproj",
   "expectedPackageFiles": [
@@ -101,6 +101,8 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.0\\npgsql.entityframeworkcore.postgresql.6.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\nuget.common\\5.11.0\\nuget.common.5.11.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\nuget.configuration\\5.11.0\\nuget.configuration.5.11.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\nuget.dependencyresolver.core\\5.11.0\\nuget.dependencyresolver.core.5.11.0.nupkg.sha512",

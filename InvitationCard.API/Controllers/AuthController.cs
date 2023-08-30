@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-//using AspNetIdentityDemo.Api.Services;
+
 using AspNetIdentityDemo.Shared;
 using InvitationCard.Business.Abstract;
 using Microsoft.AspNetCore.Authentication;
@@ -19,20 +19,20 @@ namespace AspNetIdentityDemo.Api.Controllers
     {
 
         private IUserService _userService;
-      
+
         private IConfiguration _configuration;
         public AuthController(IUserService userService, IConfiguration configuration)
         {
             _userService = userService;
-       
+
             _configuration = configuration;
         }
 
-        // /api/auth/register
+         ///api/auth/register
         [HttpPost("Register")]
-        public async Task<IActionResult> RegisterAsync([FromBody]RegisterViewModel model)
+        public async Task<IActionResult> RegisterAsync([FromBody] RegisterViewModel model)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 var result = await _userService.RegisterUserAsync(model);
 
@@ -47,15 +47,15 @@ namespace AspNetIdentityDemo.Api.Controllers
 
         // /api/auth/login
         [HttpPost("Login")]
-        public async Task<IActionResult> LoginAsync([FromBody]LoginViewModel model)
+        public async Task<IActionResult> LoginAsync([FromBody] LoginViewModel model)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 var result = await _userService.LoginUserAsync(model);
 
                 if (result.IsSuccess)
                 {
-                   
+
                     return Ok(result);
                 }
 
@@ -65,7 +65,7 @@ namespace AspNetIdentityDemo.Api.Controllers
             return BadRequest("Some properties are not valid");
         }
 
-  
+
     }
 
 

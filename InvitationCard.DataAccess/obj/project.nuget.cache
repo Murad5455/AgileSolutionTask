@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rL96WJT3Hy1/JmpmO+79X/W7hrn/lYXpkAFbdv5bDyXtf8DecKr9g6uj3TcJlZfyIbwUJN0ul9VAj/x0N+avjw==",
+  "dgSpecHash": "LjfCku2l1KkYTA1RZqi8w35oE9T41E9/6cHWC4HovOuB/9iyZ0ptZAQ33p6YJMhkPIc56SemA+sMTrW6al22ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\InvitationCard\\InvitationCard.DataAccess\\InvitationCard.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.0\\npgsql.entityframeworkcore.postgresql.6.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
